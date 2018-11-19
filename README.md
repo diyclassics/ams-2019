@@ -1,4 +1,4 @@
-# Landing Page for Ancient MakerSpaces 2018
+# Landing Page for Ancient MakerSpaces 2019
 An all-day Digital Classics workshop featuring presentations, demonstrations, and lightning talks.
 Saturday January 5, 2018 8:30am - 3:00pm
 
