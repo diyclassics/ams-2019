@@ -1,7 +1,7 @@
 ---
 
 port: 4000
-host: 0.0.0.0
+host: 127.0.0.1
 safe: false
 
 
@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "Ancient MakerSpaces 2019"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
@@ -35,4 +35,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-

@@ -217,9 +217,11 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider .fa-stack {
+  /* line-height: 175%; */
   font-size: 130px;
   position: static;
   margin-top: -8px;
+  color: orange;
 }
 .sectiondivider .fa-circle { color: #fff; }
 
@@ -234,6 +236,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   z-index:6;
   width:240px;
+  visibility: hidden;
 }
 
 .sectiondivider.imaged {
@@ -344,9 +347,10 @@ nav ul li:hover, nav ul li.active {
     margin-top: -14px;
   }
   .sectiondivider h5 {
-    font-size:15px;
+    font-size:12px;
     bottom:30px;
-    width:170px
+    width:170px;
+    visibility: hidden;
   }
 
   .columned {

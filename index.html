@@ -19,13 +19,17 @@
 
     <nav><ul>
       {% for node in site.posts reversed %}
+            {% if node.path contains '_.md' %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        {% endif %}
       {% endfor %}
+      <!-- <li class="p-talks"><a href="#">Workshops</a></li> -->
     </ul></nav>
 
 
     {% for page in site.posts reversed %}
+      {% if page.path contains '.md' %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
@@ -46,6 +50,7 @@
           {{ page.content }}
         </div>
       </div>
+      {% endif %}
     {% endfor %}
 
 
