@@ -101,6 +101,11 @@ h3 {
 
 .title {
   text-transform:uppercase;
+  font-size: 150%;
+}
+
+.supertitle {
+  text-transform:uppercase;
   font-size: 64px;
 }
 
