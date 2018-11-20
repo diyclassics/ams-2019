@@ -95,8 +95,13 @@ h3 {
 
 .callout {
   text-align: center;
-  padding: 25px 5%;
-  font-size: 125%
+  padding: 0 5%;
+  font-size: 125%;
+}
+
+.title {
+  text-transform:uppercase;
+  font-size: 64px;
 }
 
 .container h3, {
