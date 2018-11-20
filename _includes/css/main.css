@@ -76,7 +76,6 @@ hr {
 }
 
 
-
 .container h2, .container h4 {
   margin-bottom: 10px;
   font-weight: bold;
@@ -92,6 +91,12 @@ h3 {
   text-align: left;
   font-weight: bold;
   padding: 0 5%;
+}
+
+.callout {
+  text-align: center;
+  padding: 25px 5%;
+  font-size: 125%
 }
 
 .container h3, {
@@ -194,6 +199,7 @@ a {
 
 .schedule {
   list-style-type: none;
+  padding: 0;
 }
 
 /* ----- sections/articles ----- */
