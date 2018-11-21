@@ -5,7 +5,7 @@ color: white
 fa-icon: bolt
 ---
 
-## Lightning Talks
+### Lightning Talks
 Patrick J. Burns, Moderator  
 *Institute for the Study of the Ancient World*  
 11:30am-12:30pm  
