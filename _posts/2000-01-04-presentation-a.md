@@ -7,7 +7,7 @@ fa-icon: clone
 
 ### From Stone to Screen and the DIY Method: Digitization, Integration, and You
 {: .title}
-Chelsea Gardner  
+Chelsea Gardner, Lisa Tweten, Kat Solberg
 *University of British Columbia*  
 9:00-9:40am
 
