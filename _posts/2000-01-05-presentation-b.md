@@ -2,7 +2,7 @@
 title: "presentation-b"
 bg: black
 color: white
-fa-icon: flask
+fa-icon: book
 ---
 
 ### CommentarySandbox: Creating Custom Digital Commentaries for the Classroom

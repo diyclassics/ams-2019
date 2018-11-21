@@ -2,7 +2,7 @@
 title: "presentation-e"
 bg: black
 color: white
-fa-icon: flask
+fa-icon: network-wired
 ---
 
 ### Analyzing Ciceronian Networks with Gephi

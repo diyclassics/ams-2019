@@ -2,7 +2,7 @@
 title: "presentation-c"
 bg: black
 color: white
-fa-icon: flask
+fa-icon: map
 ---
 
 ### Mapping Text with Recogito

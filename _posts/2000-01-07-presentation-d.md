@@ -2,7 +2,7 @@
 title: "presentation-d"
 bg: black
 color: white
-fa-icon: flask
+fa-icon: headphones
 ---
 
 ### Make Your Own Ancient Studies Podcast

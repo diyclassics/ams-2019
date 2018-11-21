@@ -2,7 +2,7 @@
 title: "presentation-a"
 bg: black
 color: white
-fa-icon: flask
+fa-icon: clone
 ---
 
 ### From Stone to Screen and the DIY Method: Digitization, Integration, and You
