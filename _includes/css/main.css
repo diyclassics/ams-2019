@@ -105,6 +105,9 @@ h3 {
 }
 
 .supertitle {
+  margin: auto;
+  width: 720px;
+  font-family: 'Montserrat', sans-serif;
   text-transform:uppercase;
   font-size: 64px;
 }
@@ -225,7 +228,7 @@ a {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 100px;
 }
 
 
@@ -407,4 +410,15 @@ a {
     -moz-column-count:    2;
     column-count:         2;
   }
+
+  .section:first-of-type {
+      padding-top: 70px;
+  }
+
+  .supertitle {
+    margin: auto;
+    width: inherit;
+}
+
+  h1, h2, h3, h4, h5 { line-height: 25px;}
 }
